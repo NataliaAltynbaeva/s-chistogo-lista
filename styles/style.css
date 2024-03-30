@@ -1,8 +1,8 @@
-.body {
+body {
   margin: 0;
   padding: 0;
   background-color: #1e1e1e;
-  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-family: "Inter", "EB Garamond";
   font-weight: 400;
 }
 
@@ -120,7 +120,7 @@ header {
 }
 
 .intro__heading {
-  font-family: Intro;
+  font-family: Inter;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
