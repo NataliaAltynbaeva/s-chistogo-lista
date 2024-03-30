@@ -1,5 +1,6 @@
 .body {
   margin: 0;
+  padding: 0;
   background-color: #1e1e1e;
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-weight: 400;
@@ -28,6 +29,9 @@ blockquote {
 
 header {
   padding: 24px 20px;
+  height: 132px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .intro {
@@ -63,11 +67,7 @@ header {
 .content-section_theme_bright {
   background-color: #fee42a;
 }
-header {
-  height: 132px;
-  display: flex;
-  justify-content: space-between;
-}
+
 .header__menu-list {
   color: white;
   display: flex;
