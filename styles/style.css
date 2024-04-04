@@ -183,7 +183,7 @@ header {
   font-size: 20px;  
   font-weight: 400;
   line-height: 27px;
-  padding-bottom: 32px; 
+  padding-bottom: 32px;
 }
 
 .content-section__list {
@@ -303,7 +303,7 @@ footer {
   line-height: 135%;
   width: 77%;
   display: flex;
-  align-items: flex-start;  
+  align-items: flex-start;
 }
 
 .footer__links {
@@ -324,6 +324,6 @@ footer {
 .footer__link-right {
   text-decoration: none;
   color: inherit;
-  padding-left: 17px; 
+  padding-left: 17px;
 }
   
